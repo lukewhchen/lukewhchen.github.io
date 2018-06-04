@@ -204,6 +204,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', end
 	font-size: 18px;
 	line-height: 30px;
 }
+#self {
+	color: #414a52;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 30px;
+}
 
 #about .about-text a{
 	width: 150px;
